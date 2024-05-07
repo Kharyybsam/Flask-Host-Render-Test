@@ -1,0 +1,7 @@
+Step 1: Install the necessary modules, flask & gunicorn with the command pip install flask/gunicorn
+Step 2 run the command: gunicorn app:app
+                        where the left side is the main file 
+                        and the right is the name of your flask (deafult=app)
+Step 3: Open render
+
+Note: Render proccess of deploying your web is detailed enough that my assistance is no use.
